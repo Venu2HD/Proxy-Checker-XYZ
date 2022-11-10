@@ -10,3 +10,10 @@ python3 main.py
 ```
 Windows:
 ---
+Click on <> Code
+Click on Download ZIP
+Unzip the downloaded file
+```
+py -m pip install -r requirements.txt
+py main.py
+```
