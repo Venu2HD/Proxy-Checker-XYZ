@@ -3,6 +3,5 @@
 Linux:
 ---
 ```
-hello
-jdji
+git clone 
 ```
