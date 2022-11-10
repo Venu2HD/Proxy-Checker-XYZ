@@ -8,3 +8,5 @@ cd Proxy-Checker-XYZ
 pip3 install -r requirements.txt
 python3 main.py
 ```
+Windows:
+---
